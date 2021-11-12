@@ -1,6 +1,6 @@
 # Test technique pour le poste de développeur backend - Stackinsat
 
-### Vendredi 12 novembre 2021 de 17h00 à 18h00
+### Vendredi 12 novembre 2021 de 17h00 à 18h30
 
 ### Réponses aux questions de la première partie
 
